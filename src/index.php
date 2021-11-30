@@ -1,3 +1,3 @@
 <?
-	echo 'Hello, mir';
+	echo 'Hellodasd, mir';
 ?>
